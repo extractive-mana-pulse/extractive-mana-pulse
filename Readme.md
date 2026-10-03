@@ -1,5 +1,5 @@
 # 💫 About Me:
-Kotlin Multiplatform Developer focused on building scalable, high-quality mobile applications with modern architecture and best practices. Experienced in production apps, code reviews, and teaching real-world development. Aiming to contribute new ideas and innovations that advance the mobile engineering field while solving meaningful real-world problems.
+Kotlin Multiplatform Developer focused on building scalable, high-quality cross-paltform applications with modern architecture and best practices. Experienced in production apps, code reviews, and teaching real-world development. Aiming to contribute new ideas and innovations that advance the mobile engineering field while solving meaningful real-world problems.
 
 
 ## 🌐 Socials:
